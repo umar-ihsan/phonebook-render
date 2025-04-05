@@ -1,0 +1,7 @@
+# Ignore node_modules in any subdirectory
+**/node_modules/
+
+# Other common ignore patterns for Node.js projects
+*.log
+*.env
+.DS_Store
